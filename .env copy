@@ -1,0 +1,6 @@
+#database connection 
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=Siddharth@1234
+DB_NAME=msme_payment_db
